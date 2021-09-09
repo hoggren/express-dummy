@@ -16,5 +16,10 @@
     "email": "p@hoggren.nu",
     "name": "Patrik Hoggren"
   },
+  "homepage": "https://github.com/phoggren/express-dummy",
+  "repository": {
+    "url": "https://github.com/phoggren/express-dummy.git",
+    "type": "git"
+  },
   "license": "MIT"
 }
