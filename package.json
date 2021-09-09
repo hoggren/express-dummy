@@ -1,0 +1,20 @@
+{
+  "name": "express-dummy",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "description": "Simple bootstrapped Express.js server for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "test", "echo", "dummy"],
+  "author": {
+    "email": "p@hoggren.nu",
+    "name": "Patrik Hoggren"
+  },
+  "license": "MIT"
+}
