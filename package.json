@@ -1,5 +1,5 @@
 {
-  "name": "express-dummy",
+  "name": "@phoggren/express-dummy",
   "version": "0.0.1",
   "private": false,
   "dependencies": {
@@ -9,7 +9,8 @@
   "description": "Simple bootstrapped Express.js server for testing purposes",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "exit 0"
   },
   "keywords": ["express", "test", "echo", "dummy"],
   "author": {
